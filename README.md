@@ -1,3 +1,9 @@
+# react-datatable-example
+
+Example of [datatables.net](https://datatables.net/) in a React app using the [useEffect hook](https://reactjs.org/docs/hooks-effect.html).
+
+Original `create-react-app` README follows:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

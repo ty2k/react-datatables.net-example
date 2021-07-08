@@ -1,11 +1,23 @@
 {
-  "name": "react-datatable",
+  "name": "react-datatables.net-example",
+  "author": "Tyler Krys <Tyler.Krys@gov.bc.ca>",
   "version": "0.1.0",
+  "keywords": [
+    "react",
+    "cra",
+    "create-react-app",
+    "jquery",
+    "datatables.net",
+    "datatable"
+  ],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "datatables.net": "^1.10.25",
+    "datatables.net-dt": "^1.1.0",
+    "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
